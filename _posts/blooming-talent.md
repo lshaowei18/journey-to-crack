@@ -4,7 +4,7 @@ excerpt: "Talent is something you make bloom, instinct is something you polish"
 date: "2025-05-27T05:35:07.322Z"
 ---
 
-Do you think the present you has reached your full potential? Even if your physique, techniques, and spirit have not?
+Do you think the present you has reached your full potential? Even if your physique, mind, and spirit have not?
 
 You are different from those who are naturally more talented than you since the moment you are born. No matter how much time and effort you put in, you can't turn that around, even if you can strategize well with your teammates.
 
