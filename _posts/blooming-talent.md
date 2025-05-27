@@ -12,7 +12,7 @@ You can complain about that once you have done everything you possibly can.
 
 Rather than despairing and giving up because you are not a genius, believe that this is not the limit of your strength and continue down the path ahead of you.
 
-It may be a hard and painful path, but talent is something you make bloom and instinct something you polish.
+It may be a hard and painful path, but talent is something you make bloom and instinct is something you polish.
 
 Today might be the day to grasp the chance to let your talent bloom. Maybe tomorrow, the day after, or the day I turn 35. But if you think it will never come, it probably never will.
 
