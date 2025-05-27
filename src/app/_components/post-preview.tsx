@@ -28,7 +28,7 @@ export function PostPreview({
           {title}
         </Link>
       </h3>
-      <div className="text-lg w1/4 text-gray-500">
+      <div className="text-lg w-1/4 text-gray-500">
         <DateFormatter dateString={date} />
       </div>
     </div>
